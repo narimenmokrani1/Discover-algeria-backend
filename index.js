@@ -2,7 +2,7 @@
 // Basic Config
 //=============================================================================
 const express = require('express');
-const cors = require('cors');
+
 // instantiate express
 const app = express();
 
@@ -18,7 +18,7 @@ app.use(express.json());
 //  adds it to the request object as request.body
 app.use(express.urlencoded({ extended: true }));
 
-app.use(cors());
+
 //=============================================================================
 // ROUTES
 //=============================================================================
@@ -27,8 +27,8 @@ app.get('/', (req, res) => {
 	res.redirect('/states');
 });
 /* START CONTROLLERS HERE */
-const plantsController = require('./controllers/plantsController');
-app.use('/plants', plantsController);
+const stateController = require('./controllers/stateController');
+app.use('/states', stateController);
 
 /* END CONTROLLERS HERE */
 
