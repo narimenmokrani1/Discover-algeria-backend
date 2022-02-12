@@ -1,0 +1,260 @@
+[
+	{
+		"state": "Algiers",
+		"image_url": "https://i.pinimg.com/736x/bf/26/50/bf2650594051845d900bd8a2d9ce5b81.jpg",
+		"state_code": 16,
+		"traditional_clothes": "Karakou",
+		"clothes_url": "https://ae01.alicdn.com/kf/H15a0719746ff40f0ade2f5251c701552B.jpg",
+		"traditional_food": "Dziriyat",
+		"food_url": "https://i.ytimg.com/vi/ALx1DW6G3Ls/maxresdefault.jpg",
+		"hotel": "https://www.agoda.com/hilton-alger-hotel/hotel/algiers-dz.html?cid=1844104",
+		"favorite": false,
+		"region": "north",
+		"description": "Algiers is the capital of Algeria, In Algiers, the summers are warm, muggy, dry, and mostly clear and the winters are long, cold, windy, and partly cloudy. Over the course of the year, the temperature typically varies from 42°F to 86°F and is rarely below 35°F or above 92°F.",
+		"places_to_visit": [
+			{
+				"name": "Botanical Garden Hamma",
+				"img_url": "https://i.pinimg.com/originals/9a/71/8e/9a718ecfb2a6e8086b76fb13030a9029.jpg"
+			},
+			{
+				"name": "the great mosques of Algeries",
+				"img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1_%D8%A7%D9%84%D8%A3%D8%B9%D8%B8%D9%85.jpg/800px-%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1_%D8%A7%D9%84%D8%A3%D8%B9%D8%B8%D9%85.jpg"
+			},
+			{
+				"name": "The church of Notre Dame of Africa",
+				"img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Notre_Dame_d%27Afrique2.jpg/1200px-Notre_Dame_d%27Afrique2.jpg"
+			}
+		]
+	},
+	{
+		"state": "Oran",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/ORAN_%2C_VILLE_D%27ALGERIE.jpg",
+		"state_code": 31,
+		"traditional_clothes": "Blouza Oranaise",
+		"clothes_url": "https://i.pinimg.com/564x/ac/20/60/ac20602059d27e9b22ea20274497782d.jpg",
+		"traditional_food": "Karantika",
+		"food_url": "https://kazirecipe.files.wordpress.com/2018/03/kazi-recipe-calentica.jpg?w=610",
+		"hotel": "https://www.agoda.com/hilton-alger-hotel/hotel/algiers-dz.html?cid=1844104",
+		"favorite": false,
+		"region": "north-west",
+		"description": "Oran is a major coastal city located in the north-west of Algeria. It is considered the second most important city of Algeria after the capital Algiers, due to its population, commercial, industrial, and cultural importance. It is 432 km (268 mi) from Algiers. The total population of the city was 803,329 in 2008, while the metropolitan area has a population of approximately 1,500,000making it the second-largest city in Algeria.",
+		"places_to_visit": [
+			{
+				"name": "Fortaleza de Santa Cruz",
+				"img_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Fortaleza_de_santa_cruz.jpg"
+			},
+			{
+				"name": "Porte d'Espagne",
+				"img_url": "https://guide-oran.com/wp-content/uploads/2018/05/Porte-despagne.jpg"
+			},
+			{
+				"name": "Place du 1er Novembre",
+				"img_url": "https://i.pinimg.com/originals/f9/71/8a/f9718ab1a3b517cd4d953f0d363360e0.jpg"
+			}
+		]
+	},
+	{
+		"state": "tlemcen",
+		"image_url": "https://res.cloudinary.com/fleetnation/image/private/c_fit,w_1120/g_south,l_text:style_gothic2:%C2%A9%20Rui%20Baiao,o_20,y_10/g_center,l_watermark4,o_25,y_50/v1522312958/zcq4grjl6wltrnkdyacn.jpg",
+		"state_code": 13,
+		"traditional_clothes": "Chebda Tlamcaniya",
+		"clothes_url": "https://i.pinimg.com/originals/66/f2/6e/66f26e4625147372d39ddccac21778f0.jpg",
+		"traditional_food": "Dziriyat",
+		"food_url": "https://i.ytimg.com/vi/ALx1DW6G3Ls/maxresdefault.jpg",
+		"hotel": "https://www.google.com/travel/hotels/Tlemcen/entity/CgoIiPe66IiEp9sLEAE/photos?g2lb=4597339%2C4317915%2C4596364%2C4677860%2C4640247%2C4306835%2C4371335%2C4401769%2C4270442%2C4649665%2C2503771%2C4718402%2C4605861%2C4258168%2C4641139%2C4687155%2C4624411%2C4647135%2C2503781%2C2502548%2C4270859%2C4291517%2C4284970&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=hotel%20tlemcen&rp=EILpo5mswdL2fxDerIH2j5-h2xkQiPe66IiEp9sLEKHl1Mn0yOWJ2QE4AUAASAKiARBUbGVtY2VuLCBBbGdlcmlhwAEDyAEA&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjmDxACGBkSBwjmDxACGBoYATICEAAqCQoFOgNVU0QaAA&ved=0CAAQ5JsGahcKEwjY0J6Nmvn1AhUAAAAAHQAAAAAQGg",
+		"favorite": false,
+		"region": "north-west",
+		"description": "Tlemcen is the second-largest city in north-western Algeria after Oran, and capital of the Tlemcen Province. The city has developed leather, carpet and textile industries, which it exports through the port of Rachgoun. It had a population of 377,400 at the previous census, while the province had 1,302,000 inhabitants.",
+		"places_to_visit": [
+			{
+				"name": "Lalla Setti Plateau",
+				"img_url": "https://aathaar.net/public/storage//avatars/55699.jpg"
+			},
+			{
+				"name": "Beni Add Ain Fezza Caves",
+				"img_url": "https://3.bp.blogspot.com/-vN_CaZVnol0/XNk-iCUS3QI/AAAAAAAAvd8/ujBkDGY7PyMez2dg_fJ5nQQVSAspPJ-egCLcBGAs/s1600/tlemcen3.jpg"
+			},
+			{
+				"name": "Cascades El Ourit",
+				"img_url": "https://lh3.googleusercontent.com/p/AF1QipMCZ7dFqBu2PnBo77Okmw-KfOUfd5oFTp3UUTyS"
+			},
+			{
+				"name": "Château Mashwar",
+				"img_url": "data:image/jpeg;base64,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"
+			}
+		]
+	},
+	{
+		"state": "Bejaiia",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Vue_g%C3%A9n%C3%A9rale_de_la_ville_de_Bejaia.jpg",
+		"state_code": 6,
+		"traditional_clothes": "Kabyle Dress",
+		"clothes_url": "https://www.orientaletendance.com/9482-large_default/dress-kabyle-moderne-white.jpg",
+		"traditional_food": "tikerbabin",
+		"food_url": "https://i.pinimg.com/originals/b9/a1/b9/b9a1b97f94a979e44d0e3454efa05e02.jpg",
+		"hotel": "https://www.google.com/travel/hotels/B%C3%A9ja%C3%AFa/entity/CgoIwbOO3v7zr_Z9EAE/photos?g2lb=4596364%2C4317915%2C4597339%2C4649665%2C4270442%2C4401769%2C4371335%2C4306835%2C4640247%2C4677860%2C4718402%2C2503771%2C2502548%2C2503781%2C4647135%2C4624411%2C4641139%2C4687155%2C4258168%2C4605861%2C4270859%2C4291517%2C4284970&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=hotel%20bejaia&rp=EMGzjt7-86_2fRD6-PTSjo_30A0Qidzt1r7c9pY1ENmyuNCFgbbPRjgBQABIAqIBEULDqWphw69hLCBBbGdlcmlhwAEDyAEA&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjmDxACGBkSBwjmDxACGBoYATICEAAqCQoFOgNVU0QaAA&ved=0CAAQ5JsGahcKEwi44oeWofn1AhUAAAAAHQAAAAAQGA",
+		"favorite": false,
+		"region": "north-east",
+		"description": "Béjaïa (Kabyle: Bgayet, Vgayet), formerly Bougie and Bugia, is a Mediterranean port city on the Gulf of Béjaïa in Algeria; it is the capital of Béjaïa Province, Kabylia. Béjaïa is the largest principally Kabyle-speaking city in the Kabylia region of Algeria.",
+		"places_to_visit": [
+			{
+				"name": "Les Aiguades",
+				"img_url": "https://stringfixer.com/files/83366752.jpg"
+			},
+			{
+				"name": "Sea breeze",
+				"img_url": "https://media.gettyimages.com/photos/brise-de-mer-bejaia-algerie-picture-id144694025"
+			},
+			{
+				"name": "Cap of monkeys",
+				"img_url": "https://i.pinimg.com/736x/61/c2/64/61c264ed92a05027f20fa8f4619614d1.jpg"
+			}
+		]
+	},
+	{
+		"state": "tamanrasset",
+		"image_url": "https://media-cdn.tripadvisor.com/media/photo-s/11/9c/cd/63/sunset-in-askrem-tamanrasset.jpg",
+		"state_code": 16,
+		"traditional_clothes": "Malahfa sahrawiya",
+		"clothes_url": "https://i.pinimg.com/474x/aa/46/cc/aa46cce25af155687f6df50c257a120d--western-sahara-folk-art.jpg",
+		"traditional_food": "Malwi",
+		"food_url": "https://i.ytimg.com/vi/2q8-6fVLIfI/hqdefault.jpg",
+		"hotel": "https://www.google.com/travel/hotels/Tamanrasset/entity/CgsIwfnbw7vR7Oy1ARAB/photos?g2lb=4640247%2C4677860%2C4371335%2C4306835%2C4401769%2C4649665%2C4270442%2C4317915%2C4597339%2C4596364%2C4687155%2C4641139%2C4605861%2C4258168%2C4624411%2C4647135%2C2502548%2C2503781%2C2503771%2C4718402%2C4291517%2C4270859%2C4284970&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=tamanrasset%20hotels&rp=EMH528O70ezstQEQ4o2siMP7o-ohELrlkJDFrOPCHRDUrOTpu4Wph_8BOAFAAEgCogEUVGFtYW5yYXNzZXQsIEFsZ2VyaWHAAQPIAQA&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjmDxACGBkSBwjmDxACGBoYATICEAAqBAoAGgA&ved=0CAAQ5JsGahcKEwjQivDHrfn1AhUAAAAAHQAAAAAQEw",
+		"favorite": false,
+		"region": "desert",
+		"description": "Tamanrasset also known as Tamanghasset or Tamenghest, is an oasis city and capital of Tamanrasset Province in southern Algeria, in the Ahaggar Mountains. It is the chief city of the Algerian Tuareg. It is located an altitude of 1,320 metres (4,330 ft). As of the 2008 census, it has a population of 92,635, up from 72,741 in 1998, with an annual growth rate of 2.5%.",
+		"places_to_visit": [
+			{
+				"name": "Assekrem",
+				"img_url": "https://img.ev.mu/images/attractions/85/960x640/14965.jpg"
+			},
+			{
+				"name": "Ahaggar National Park",
+				"img_url": "https://www.mediastorehouse.com.au/p/632/bio08898-15457587.jpg.webp"
+			}
+		]
+	},
+	{
+		"state": "Batna",
+		"image_url": "https://i.pinimg.com/736x/bf/26/50/bf2650594051845d900bd8a2d9ce5b81.jpg",
+		"state_code": 5,
+		"traditional_clothes": "Malhfa chawiya",
+		"clothes_url": "https://i.pinimg.com/originals/c2/1e/0b/c21e0bb7b8b0587ac0d69cc980526ff4.jpg",
+		"traditional_food": "Trida",
+		"food_url": "https://i.pinimg.com/474x/00/24/fd/0024fd66012c7915b98c0c3fdc56a137.jpg",
+		"hotel": "https://www.google.com/travel/hotels/Batna/entity/CgoIq6jhlu2_laAxEAE?g2lb=4641139%2C4687155%2C4605861%2C4258168%2C4624411%2C4647135%2C2502548%2C2503781%2C2503771%2C4718402%2C4677860%2C4640247%2C4371335%2C4306835%2C4401769%2C4270442%2C4649665%2C4317915%2C4597339%2C4596364%2C4284970%2C4291517%2C4270859&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=batna%20hotels&rp=EKuo4Zbtv5WgMRDFtI6ysLHdx3kQw_vU0_26gcHGARDf9JbzuuiqgtMBOAFAAEgCogEOQmF0bmEsIEFsZ2VyaWHAAQPIAQA&ictx=1&ved=0CAAQ5JsGahcKEwjwzcOKxfn1AhUAAAAAHQAAAAAQAg&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjmDxACGBkSBwjmDxACGBoYATICEAAqBAoAGgA",
+		"favorite": false,
+		"region": "east",
+		"description": "Batna is the main city and commune of Batna Province, Algeria. With a population of 290,645 (2008 census) it is the fifth largest city in Algeria. It is also one of the principal cities of the Chaoui area and is considered the capital of Aurès.",
+		"places_to_visit": [
+			{
+				"name": "Timgad Roman Ruins",
+				"img_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Timgad_Trajan.jpg"
+			},
+			{
+				"name": "Timgad museum",
+				"img_url": "https://mediaim.expedia.com/localexpert/1289288/805c5fc7-dd8b-439d-a48c-1d9d314d305c.jpg?impolicy=resizecrop&rw=1005&rh=565"
+			},
+			{
+				"name": "Ghoufi",
+				"img_url": "https://youimg1.tripcdn.com/target/0ww0k120008y9s54127E3_C_640_470.jpg_.webp?proc=source%2ftrip"
+			}
+		]
+	},
+	{
+		"state": "Tipaza",
+		"image_url": "https://i.pinimg.com/originals/0d/55/9d/0d559df7b697ea94c1a07908324c1332.jpg",
+		"state_code": 42,
+		"traditional_clothes": "Badroun",
+		"clothes_url": "https://data.whicdn.com/images/326307741/original.jpg",
+		"traditional_food": "Griwesh",
+		"food_url": "https://i0.wp.com/culture-crunch.com/wp-content/uploads/2021/05/bis.jpg?fit=432%2C394&ssl=1",
+		"hotel": "https://www.google.com/travel/hotels/Tipaza/entity/CgoIjNrU0NCygMd4EAE?g2lb=4596364%2C4317915%2C4597339%2C4401769%2C4649665%2C4270442%2C4640247%2C4677860%2C4371335%2C4306835%2C2503771%2C4718402%2C4647135%2C2502548%2C2503781%2C4641139%2C4687155%2C4258168%2C4605861%2C4624411%2C4270859%2C4291517%2C4284970&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=hotel%20tipaza&rp=EIza1NDQsoDHeBDrrbeox5rQtzAQgcPZjOCY_7VKEOvi5pKq18a-6QE4AUAASAKiAQ9UaXBhemEsIEFsZ2VyaWHAAQPIAQA&ictx=1&ved=0CAAQ5JsGahcKEwiYme_xzPn1AhUAAAAAHQAAAAAQAg&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjmDxACGBkSBwjmDxACGBoYATICEAAqCQoFOgNVU0QaAA",
+		"favorite": false,
+		"region": "north",
+		"description": "Tipaza is the capital of the Tipaza Province, Algeria. When it was part of the Roman Empire, it was called Tipasa. The modern town was founded in 1857, and is chiefly remarkable for its ancient ruins and sandy littoral.",
+		"places_to_visit": [
+			{
+				"name": "Royal Mausoleum of Mauretania",
+				"img_url": "https://nsa40.casimages.com/img/2019/04/21/190421070559712606.jpg"
+			},
+			{
+				"name": "Ruines Romaines of Tipaza",
+				"img_url": "https://www.aljazaer.com/wp-content/gallery/ruines-tipaza/IMG_20210416_012319.jpg"
+			},
+			{
+				"name": "Chenoua beach",
+				"img_url": "https://a0.muscache.com/im/pictures/f64fc52d-a8f3-422c-9d0c-a5b6c85b6dae.jpg"
+			}
+		]
+	},
+	{
+		"state": "Blida",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Blida%2CAlgeria.jpg",
+		"state_code": 9,
+		"traditional_clothes": "el Kat",
+		"clothes_url": "https://pbs.twimg.com/media/EffMQyQWsAEHx-h.jpg",
+		"traditional_food": "Rachta",
+		"food_url": "https://pbs.twimg.com/media/DeCyr0yWAAAp9Wv.jpg",
+		"hotel": "https://www.google.com/travel/hotels/Blida/entity/ChoIgZ_I6KeYxPGtARoNL2cvMTFid3FiZHEzNRAB/photos?g2lb=2503771%2C4718402%2C4258168%2C4605861%2C4641139%2C4687155%2C4624411%2C4647135%2C2503781%2C2502548%2C4597339%2C4317915%2C4596364%2C4640247%2C4677860%2C4306835%2C4371335%2C4401769%2C4649665%2C4270442%2C4284970%2C4270859%2C4291517&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=hotel%20blida&rp=EIG3ze6lzJm2jAEQ0JrDzJj8g8UIEIGfyOinmMTxrQEQ0cmZh9jO2eusATgBQABIAqIBDkJsaWRhLCBBbGdlcmlh&ictx=1&sa=X&sqi=2&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESCgoCCAMKAggDEAAaMgoUEhA6DkJsaWRhLCBBbGdlcmlhGgASGhIUCgcI5g8QAhgZEgcI5g8QAhgaGAEyAhAAKgsKBygBOgNVU0QaAA&ved=0CAAQ5JsGahcKEwioi4Oy0Pn1AhUAAAAAHQAAAAAQGA",
+		"favorite": false,
+		"region": "north",
+		"description": "Blida is a city in Algeria. It is the capital of Blida Province, and it is located about 45 km south-west of Algiers, the national capital.[1] The name Blida, i.e. bulaydah, is a diminutive of the Arabic word belda, city.",
+		"places_to_visit": [
+			{
+				"name": "Chiffa",
+				"img_url": "https://i.pinimg.com/originals/ac/3b/51/ac3b5100b5c7a19d6bbbd20a137bfe40.jpg"
+			},
+			{
+				"name": "Chrea",
+				"img_url": "https://pbs.twimg.com/media/DSo7Y72W0AEyP-Q.jpg"
+			}
+		]
+	},
+	{
+		"state": "Canstantine",
+		"image_url": "https://images.unsplash.com/photo-1588676449872-3eaa8b242e69?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+		"state_code": 25,
+		"traditional_clothes": "Fergani",
+		"clothes_url": "https://www.orientaletendance.com/9313-large_default/traditional-fergani-dress.jpg",
+		"traditional_food": "Makrout",
+		"food_url": "https://2.bp.blogspot.com/-NlsFk1pvonA/WpQ_zeTo2HI/AAAAAAAAb-0/yGj0wORhJREPefFVqg0-0teR72NazJnTACLcBGAs/s1600/ma9rot+tmar-21.jpg",
+		"hotel": "https://www.google.com/travel/hotels/Constantine/entity/CgsIiNfWqs37ovzoARAB/photos?g2lb=4401769%2C4649665%2C4270442%2C4677860%2C4640247%2C4306835%2C4371335%2C4596364%2C4597339%2C4317915%2C4647135%2C2503781%2C2502548%2C4605861%2C4258168%2C4641139%2C4687155%2C4624411%2C2503771%2C4718402%2C4291517%2C4270859%2C4284970&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=hotel%20constantine%20algeria&rp=EIjX1qrN-6L86AEQqKfCx_r1rLfJARC-0Iv9gYadw8oBEN6ch4aMq4jDxwE4AUAASAKiARRDb25zdGFudGluZSwgQWxnZXJpYcABA8gBAA&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjmDxACGBkSBwjmDxACGBoYATICEAAqCQoFOgNVU0QaAA&ved=0CAAQ5JsGahcKEwjYh6OU1vn1AhUAAAAAHQAAAAAQGQ",
+		"favorite": false,
+		"region": "east",
+		"description": "Constantine is regarded as the capital of eastern Algeria and the commercial center of its region, and it has a population of about 450,000 (938,475 with the agglomeration), making it the third largest city in the country after Algiers and Oran. There are several museums and historical sites located around the city. Constantine is often referred to as the City of Bridges due to the numerous picturesque bridges connecting the various hills, valleys, and ravines that the city is built on and around.",
+		"places_to_visit": [
+			{
+				"name": "Palais du Bey",
+				"img_url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/17/d1/03/palais-du-bey-constantine.jpg"
+			},
+			{
+				"name": "Prince Abdel Kader Mosque",
+				"img_url": "https://2.bp.blogspot.com/-I9olqj3KCOs/XNk5izIVuHI/AAAAAAAAvdE/Jz74pe2NxpodBoDBIkx75evhZPAosxJ7QCLcBGAs/s640/emir%2Bmosque.jpg"
+			}
+		]
+	},
+	{
+		"state": "Annaba",
+		"image_url": "https://1001beach.com/img/posts/1270/1200/annaba-1.jpg",
+		"state_code": 23,
+		"traditional_clothes": "Fergani",
+		"clothes_url": "https://www.orientaletendance.com/9320-home_default/traditional-fergani-dress-burgundy.jpg",
+		"traditional_food": "Fish Couscous",
+		"food_url": "https://www.diari.tn/sites/default/files/image/recette/couscous-poisson_0.jpg",
+		"hotel": "https://www.google.com/travel/hotels/Annaba/entity/CgoIg93l7PLe_pAYEAE?g2lb=4306835%2C4371335%2C4640247%2C4677860%2C4649665%2C4270442%2C4401769%2C4597339%2C4317915%2C4596364%2C4624411%2C4258168%2C4605861%2C4641139%2C4687155%2C2503781%2C2502548%2C4647135%2C4718402%2C2503771%2C4291517%2C4270859%2C4284970&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=annaba%20hotels&rp=EIS6grnAw7Xb5QEQg93l7PLe_pAYEKirna6Fh8XuFhDaprSA7dDqqsUBOAFAAEgCogEPQW5uYWJhLCBBbGdlcmlhwAEDyAEA&ictx=1&ved=0CAAQ5JsGahcKEwiQnI-D3vn1AhUAAAAAHQAAAAAQAg&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjmDxACGBkSBwjmDxACGBoYATICEAAqCQoFOgNVU0QaAA",
+		"favorite": false,
+		"region": "east",
+		"description": "Annaba is a coastal city that underwent significant growth during the 20th Century. Annaba has a metropolitan area with a higher population density than the other metropolitan areas of the Algerian coastline, such as Oran and Algiers. Much of eastern and southern Algeria uses the services, equipment, and infrastructure of Annaba. Economically, it is the center for various economic activities, such as industry, transportation, finance, and tourism.",
+		"places_to_visit": [
+			{
+				"name": "Basilique « Saint Augustin »",
+				"img_url": "https://media-cdn.tripadvisor.com/media/photo-s/18/93/34/00/eternal-abode-of-all.jpg"
+			},
+			{
+				"name": "Djenen El Bey Beach",
+				"img_url": "https://fastly.4sqi.net/img/general/600x600/45464119_ivNI-gZbQa4CqUzrrH_wd8ziURmJf8uoyEuLxee8xaM.jpg"
+			}
+		]
+	}
+]
