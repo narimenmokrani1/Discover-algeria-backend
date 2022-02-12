@@ -256,5 +256,28 @@
 				"img_url": "https://fastly.4sqi.net/img/general/600x600/45464119_ivNI-gZbQa4CqUzrrH_wd8ziURmJf8uoyEuLxee8xaM.jpg"
 			}
 		]
+	},
+	{
+		"state": "Annaba",
+		"image_url": "https://1001beach.com/img/posts/1270/1200/annaba-1.jpg",
+		"state_code": 23,
+		"traditional_clothes": "Fergani",
+		"clothes_url": "https://www.orientaletendance.com/9320-home_default/traditional-fergani-dress-burgundy.jpg",
+		"traditional_food": "Fish Couscous",
+		"food_url": "https://www.diari.tn/sites/default/files/image/recette/couscous-poisson_0.jpg",
+		"hotel": "https://www.google.com/travel/hotels/Annaba/entity/CgoIg93l7PLe_pAYEAE?g2lb=4306835%2C4371335%2C4640247%2C4677860%2C4649665%2C4270442%2C4401769%2C4597339%2C4317915%2C4596364%2C4624411%2C4258168%2C4605861%2C4641139%2C4687155%2C2503781%2C2502548%2C4647135%2C4718402%2C2503771%2C4291517%2C4270859%2C4284970&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=annaba%20hotels&rp=EIS6grnAw7Xb5QEQg93l7PLe_pAYEKirna6Fh8XuFhDaprSA7dDqqsUBOAFAAEgCogEPQW5uYWJhLCBBbGdlcmlhwAEDyAEA&ictx=1&ved=0CAAQ5JsGahcKEwiQnI-D3vn1AhUAAAAAHQAAAAAQAg&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjmDxACGBkSBwjmDxACGBoYATICEAAqCQoFOgNVU0QaAA",
+		"favorite": false,
+		"region": "east",
+		"description": "Annaba is a coastal city that underwent significant growth during the 20th Century. Annaba has a metropolitan area with a higher population density than the other metropolitan areas of the Algerian coastline, such as Oran and Algiers. Much of eastern and southern Algeria uses the services, equipment, and infrastructure of Annaba. Economically, it is the center for various economic activities, such as industry, transportation, finance, and tourism.",
+		"places_to_visit": [
+			{
+				"name": "Basilique « Saint Augustin »",
+				"img_url": "https://media-cdn.tripadvisor.com/media/photo-s/18/93/34/00/eternal-abode-of-all.jpg"
+			},
+			{
+				"name": "Djenen El Bey Beach",
+				"img_url": "https://fastly.4sqi.net/img/general/600x600/45464119_ivNI-gZbQa4CqUzrrH_wd8ziURmJf8uoyEuLxee8xaM.jpg"
+			}
+		]
 	}
 ]

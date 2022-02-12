@@ -14,7 +14,8 @@ const StateSchema = new Schema({
 	region: String,
 	description: String,
 	places_to_visit: [
-		{ name: String, image_url: String }
+		{ name: String, image_url: String },
+
 	],
 });
 
