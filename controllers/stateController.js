@@ -23,6 +23,18 @@ router.get('/:id', async (req, res, next) => {
 		next(error);
 	}
 });
+router.get('/:region', async (req, res, next) => {
+	try {
+		const state = await State.findById(req.params.region);
+		if (state) {
+			res.status(200).json(state);
+		} else {
+			res.sendStatus(404);
+		}
+	} catch (error) {
+		next(error);
+	}
+});
 
 router.post('/', async (req, res, next) => {
 	try {
