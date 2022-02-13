@@ -2,7 +2,7 @@
 // Basic Config
 //=============================================================================
 const express = require('express');
-
+const cors = require('cors');
 // instantiate express
 const app = express();
 
@@ -17,7 +17,7 @@ app.use(express.json());
 // `express.urlencoded` parses x-ww-form-urlencoded request data and
 //  adds it to the request object as request.body
 app.use(express.urlencoded({ extended: true }));
-
+app.use(cors());
 
 //=============================================================================
 // ROUTES
