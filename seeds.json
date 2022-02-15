@@ -59,8 +59,8 @@
 		"state_code": 13,
 		"traditional_clothes": "Chebda Tlamcaniya",
 		"clothes_url": "https://i.pinimg.com/originals/66/f2/6e/66f26e4625147372d39ddccac21778f0.jpg",
-		"traditional_food": "Dziriyat",
-		"food_url": "https://i.ytimg.com/vi/ALx1DW6G3Ls/maxresdefault.jpg",
+		"traditional_food": "Tajin",
+		"food_url": "https://gingerandbread1.files.wordpress.com/2014/06/dsc_69671.jpg",
 		"hotel": "https://www.google.com/travel/hotels/Tlemcen/entity/CgoIiPe66IiEp9sLEAE/photos?g2lb=4597339%2C4317915%2C4596364%2C4677860%2C4640247%2C4306835%2C4371335%2C4401769%2C4270442%2C4649665%2C2503771%2C4718402%2C4605861%2C4258168%2C4641139%2C4687155%2C4624411%2C4647135%2C2503781%2C2502548%2C4270859%2C4291517%2C4284970&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=hotel%20tlemcen&rp=EILpo5mswdL2fxDerIH2j5-h2xkQiPe66IiEp9sLEKHl1Mn0yOWJ2QE4AUAASAKiARBUbGVtY2VuLCBBbGdlcmlhwAEDyAEA&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjmDxACGBkSBwjmDxACGBoYATICEAAqCQoFOgNVU0QaAA&ved=0CAAQ5JsGahcKEwjY0J6Nmvn1AhUAAAAAHQAAAAAQGg",
 		"favorite": false,
 		"region": "north-west",
@@ -86,7 +86,7 @@
 	},
 	{
 		"state": "Bejaiia",
-		"image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Vue_g%C3%A9n%C3%A9rale_de_la_ville_de_Bejaia.jpg",
+		"image_url": "https://64.media.tumblr.com/6b6c91db601e025bf30b433cd43b5286/27abcefa00dd57b1-41/s1280x1920/f086d757bc6c0a6f720cccddc427637193f843d9.jpg",
 		"state_code": 6,
 		"traditional_clothes": "Kabyle Dress",
 		"clothes_url": "https://www.orientaletendance.com/9482-large_default/dress-kabyle-moderne-white.jpg",
@@ -136,7 +136,7 @@
 	},
 	{
 		"state": "Batna",
-		"image_url": "https://i.pinimg.com/736x/bf/26/50/bf2650594051845d900bd8a2d9ce5b81.jpg",
+		"image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/93/28/eb/timgad-was-a-roman-colonial.jpg?w=500&h=300&s=1",
 		"state_code": 5,
 		"traditional_clothes": "Malhfa chawiya",
 		"clothes_url": "https://i.pinimg.com/originals/c2/1e/0b/c21e0bb7b8b0587ac0d69cc980526ff4.jpg",
@@ -254,6 +254,29 @@
 			{
 				"name": "Djenen El Bey Beach",
 				"img_url": "https://fastly.4sqi.net/img/general/600x600/45464119_ivNI-gZbQa4CqUzrrH_wd8ziURmJf8uoyEuLxee8xaM.jpg"
+			}
+		]
+	},
+	{
+		"state": "Ghardiia",
+		"image_url": "https://www.dzbreaking.com/wp-content/uploads/2017/03/ghardaia_534368488.jpg",
+		"state_code": 47,
+		"traditional_clothes": "Serwal Loubiya",
+		"clothes_url": "https://i.pinimg.com/originals/df/e8/ab/dfe8ab2e72ec090157ddced934f95d73.jpg",
+		"traditional_food": "Couscous",
+		"food_url": "https://www.thespruceeats.com/thmb/XlMzJCd-gZtaoKOmGa-vycGgj_E=/2902x1632/smart/filters:no_upscale()/couscous-getty-3890-x-2562-56a645de5f9b58b7d0e0c3b1-af93f1c24efb43b9a3c143eba611aabd.jpg",
+		"hotel": "https://www.tripadvisor.com/Hotel_Review-g317053-d2153714-Reviews-Maison_d_Hote_de_Beni_isugen-Ghardaia_Ghardaia_Province.html",
+		"favorite": false,
+		"region": "desert",
+		"description": "It is located in northern-central Algeria in the Sahara Desert and lies along the left bank of the Wadi Mzab. The M'zab valley in the Ghardaïa Province (Wilaya) was inscribed under the UNESCO World Heritage List in 1982, as a cultural property evaluated under the criteria II (for its settlement affecting urban planning even to the present century), III (for its Ibadi cultural values), and V (a settlement culture which has prevailed to the present century).",
+		"places_to_visit": [
+			{
+				"name": "Ghardaia Palace",
+				"img_url": "https://kofisi.africa/wp-content/uploads/2021/03/Blog-Image-1.jpg"
+			},
+			{
+				"name": "Reptile zoo",
+				"img_url": "https://biqalamak.com/uploads/2020/06/1592510041-tafi.jpeg"
 			}
 		]
 	}

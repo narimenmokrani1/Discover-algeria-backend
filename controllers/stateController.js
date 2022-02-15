@@ -23,11 +23,11 @@ router.get('/:id', async (req, res, next) => {
 		next(error);
 	}
 });
-router.get('/:region', async (req, res, next) => {
+router.get('/regions/:region', async (req, res, next) => {
 	try {
-		const state = await State.findById(req.params.region);
-		if (state) {
-			res.status(200).json(state);
+		const stateByRegion = await State.find({region: req.params.region});
+		if (stateByRegion) {
+			res.status(200).json(stateByRegion);
 		} else {
 			res.sendStatus(404);
 		}
