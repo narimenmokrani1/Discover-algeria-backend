@@ -4,7 +4,7 @@ const Schema = mongoose.Schema;
 const StateSchema = new Schema({
 	state: String,
 	image_url: String,
-	state_code: Number,
+	state_code: {type: Number, required: false},
 	traditional_clothes: String,
 	clothes_url: String,
 	traditional_food: String,

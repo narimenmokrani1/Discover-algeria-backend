@@ -28,7 +28,7 @@
 	},
 	{
 		"state": "Oran",
-		"image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/ORAN_%2C_VILLE_D%27ALGERIE.jpg",
+		"image_url": "https://www.bruker.com/en/services/support/india-middleeast-africa/algeria-oran/_jcr_content/teaserImage.coreimg.jpeg/1603431586087/algeria---oran.jpeg",
 		"state_code": 31,
 		"traditional_clothes": "Blouza Oranaise",
 		"clothes_url": "https://i.pinimg.com/564x/ac/20/60/ac20602059d27e9b22ea20274497782d.jpg",
@@ -277,6 +277,106 @@
 			{
 				"name": "Reptile zoo",
 				"img_url": "https://biqalamak.com/uploads/2020/06/1592510041-tafi.jpeg"
+			}
+		]
+	},
+	{
+		"state": "Timimoun",
+		"image_url": "https://www.bois-petrifie.org/en/Images/dz_offres/timimoun_1.jpg",
+		"state_code": 54,
+		"traditional_clothes": "Chachiya",
+		"clothes_url": "https://thumbs.dreamstime.com/b/timimoun-algeria-january-unknown-people-touareg-tribe-portrayed-their-villages-timimoun-algeria-africa-137941137.jpg",
+		"traditional_food": "Couscous",
+		"food_url": "https://www.thespruceeats.com/thmb/XlMzJCd-gZtaoKOmGa-vycGgj_E=/2902x1632/smart/filters:no_upscale()/couscous-getty-3890-x-2562-56a645de5f9b58b7d0e0c3b1-af93f1c24efb43b9a3c143eba611aabd.jpg",
+		"hotel": "https://www.google.com/travel/hotels/Timimoun/entity/CgoI5pPawK-AueR1EAE?g2lb=4605861%2C4641139%2C4258168%2C4317915%2C4270442%2C4597339%2C4647135%2C4649665%2C4677860%2C4640247%2C4401769%2C4596364%2C4306835%2C2503771%2C2503781%2C4718402%2C2502548%2C4270859%2C4291517%2C4284970&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=hotel%20timimoun&rp=EOaT2sCvgLnkdRC19Oqy3fWK1yQQwrb524fw0tNnEITe0_zS4dDxNDgBQABIAqIBEVRpbWltb3VuLCBBbGdlcmlhwAEDyAEA&ictx=1&ved=0CAAQ5JsGahcKEwjYsOPO8YT2AhUAAAAAHQAAAAAQAg&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjmDxACGBgSBwjmDxACGBkYATICEAAqCQoFOgNVU0QaAA",
+		"favorite": false,
+		"region": "desert",
+		"description": "Timimoun is a town and commune, and capital of Timimoun District, in Adrar Province, south-central Algeria. According to the 2008 census it has a population of 33,060, up from 28,595 in 1998 with an annual growth rate of 1.5%. Timimoun is known for the red ochre color of its buildings.",
+		"places_to_visit": [
+			{
+				"name": "Timimoun lake",
+				"img_url": "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/sea01886a183f012c/image/i2e8dba00c05d532f/version/1576580695/image.jpg"
+			},
+			{
+				"name": "Sabkha historique site",
+				"img_url": "https://i.pinimg.com/originals/af/24/44/af2444bd86d2cc02a617ac21c36ee9b4.jpg"
+			},
+			{
+				"name": "CAPTERRE (Algerian Center for Cultural Heritage Built in Earth)",
+				"img_url": "https://algeria.fes.de/fileadmin/_processed_/f/6/csm_formation_raje_a_timimoun_b6fe5d1309.jpg"
+			}
+		]
+	},
+	{
+		"state": "Mostaganem",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mostaghanem_city_algeria.jpg",
+		"state_code": 27,
+		"traditional_clothes": "Caftan",
+		"clothes_url": "https://cdn.shopify.com/s/files/1/0610/3259/5674/products/product-image-1640820752.jpg?v=1635975722",
+		"traditional_food": "Sardine Tajin",
+		"food_url": "https://i.ytimg.com/vi/uUZMNZr_WOE/hqdefault.jpg",
+		"hotel": "https://www.google.com/travel/hotels/Mostaganem/entity/CgoI0P7l59St-qxwEAE?g2lb=4597339%2C2502548%2C2503781%2C2503771%2C4647135%2C4641139%2C4306835%2C4605861%2C4401769%2C4718402%2C4270442%2C4317915%2C4640247%2C4677860%2C4258168%2C4649665%2C4596364%2C4284970%2C4291517%2C4270859&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=hotel%20mostaghanem&rp=EMS_gOeGxNq3jgEQ0P7l59St-qxwEKXB5P6KodnschCijcu15faRmecBOAFAAEgCogETTW9zdGFnYW5lbSwgQWxnZXJpYcABA8gBAA&ictx=1&ved=0CAAQ5JsGahcKEwjY7syP_YT2AhUAAAAAHQAAAAAQAg&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjmDxACGBgSBwjmDxACGBkYATICEAAqCQoFOgNVU0QaAA",
+		"favorite": false,
+		"region": "north-west",
+		"description": "Timimoun is a town and commune, and capital of Timimoun District, in Adrar Province, south-central Algeria. According to the 2008 census it has a population of 33,060, up from 28,595 in 1998 with an annual growth rate of 1.5%. Timimoun is known for the red ochre color of its buildings.",
+		"places_to_visit": [
+			{
+				"name": "Timimoun lake",
+				"img_url": "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/sea01886a183f012c/image/i2e8dba00c05d532f/version/1576580695/image.jpg"
+			},
+			{
+				"name": "Sabkha historique site",
+				"img_url": "https://i.pinimg.com/originals/af/24/44/af2444bd86d2cc02a617ac21c36ee9b4.jpg"
+			},
+			{
+				"name": "CAPTERRE (Algerian Center for Cultural Heritage Built in Earth)",
+				"img_url": "https://algeria.fes.de/fileadmin/_processed_/f/6/csm_formation_raje_a_timimoun_b6fe5d1309.jpg"
+			}
+		]
+	},
+	{
+		"state": "Guelma",
+		"image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/62/af/d2/caption.jpg?w=500&h=300&s=1",
+		"state_code": 24,
+		"traditional_clothes": "Fergani",
+		"clothes_url": "https://pbs.twimg.com/media/FC-Pmg4XoAMhAde.jpg",
+		"traditional_food": "El Bradj",
+		"food_url": "https://i.ytimg.com/vi/-f7kLVfRq38/maxresdefault.jpg",
+		"hotel": "https://www.google.com/travel/hotels/Guelma/entity/CgoIuon7jLDDsNxrEAE?g2lb=2503771%2C4647135%2C4597339%2C2502548%2C2503781%2C4401769%2C4306835%2C4641139%2C4605861%2C4317915%2C4718402%2C4270442%2C4596364%2C4677860%2C4640247%2C4258168%2C4649665%2C4284970%2C4291517%2C4270859&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=hotel%20guelma&rp=ELqJ-4yww7DcaxDN2MjlquDG3j4Q_b-tm5ifgqp5OAFAAEgCogEPR3VlbG1hLCBBbGdlcmlhwAEDyAEA&ictx=1&ved=0CAAQ5JsGahcKEwighODFg4X2AhUAAAAAHQAAAAAQAg&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjmDxACGBgSBwjmDxACGBkYATICEAAqCQoFOgNVU0QaAA",
+		"favorite": false,
+		"region": "north-east",
+		"description": "Guelma is the capital of Guelma Province and Guelma District, located in north-eastern Algeria, about 65 kilometers from the Mediterranean coast. Its location corresponds to that of ancient Calama.",
+		"places_to_visit": [
+			{
+				"name": "Hammam Maskhotine",
+				"img_url": "https://1.bp.blogspot.com/-SmjAZpdOU2A/We4cU1hlIpI/AAAAAAAAkE0/KL7Qza5yIIA7Xz99naOeONnP-WL5ad26QCLcBGAs/s1600/Guelma%2B1.jpg"
+			},
+			{
+				"name": "Guelma Romaine Theatre",
+				"img_url": "https://i.ytimg.com/vi/etTcs4mLcgo/maxresdefault.jpg"
+			}
+		]
+	},
+	{
+		"state": "Tizi Ouzou",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Tigzirt_-_Tizi_Ouzou_Province_%28Algeria%29.jpg",
+		"state_code": 15,
+		"traditional_clothes": "kabyle dress",
+		"clothes_url": "https://www.orientaletendance.com/8631-large_default/iwadiyen-kabyle-dress-blue.jpg",
+		"traditional_food": "Achebad",
+		"food_url": "https://i.pinimg.com/originals/46/18/ae/4618aea345d21cc5d28c7a13401e773c.jpg",
+		"hotel": "https://www.google.com/travel/hotels/Tizi%20Ouzou/entity/CgoIzY3Tx5jPuLdcEAE?g2lb=4401769%2C4306835%2C4641139%2C4605861%2C2503771%2C4647135%2C4597339%2C2503781%2C2502548%2C4596364%2C4258168%2C4677860%2C4640247%2C4649665%2C4317915%2C4718402%2C4270442%2C4291517%2C4284970%2C4270859&hl=en-US&gl=us&cs=1&ssta=1&ap=aAE&q=tizi%20ouzou%20hotel&rp=EJOl8IOxsYCcGBDNjdPHmM-4t1wQzYfitu2R_908EIXZmZXDxK3ueDgBQABIAqIBE1RpemkgT3V6b3UsIEFsZ2VyaWHAAQPIAQA&ictx=1&ved=0CAAQ5JsGahcKEwjA4bL5h4X2AhUAAAAAHQAAAAAQAg&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjmDxACGBgSBwjmDxACGBkYATICEAAqCQoFOgNVU0QaAA",
+		"favorite": false,
+		"region": "north-east",
+		"description": "Tizi Ouzou or Thizi Wezzu is a city in north central Algeria. It is among the largest cities in Algeria. It is the second most populous city in the Kabylie region after Bejaia.",
+		"places_to_visit": [
+			{
+				"name": "Agoulmime lake",
+				"img_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Lac_agoulmime_Tikejda.jpg"
+			},
+			{
+				"name": "Plage Azeffoun Le Caroubier",
+				"img_url": "https://www.aps.dz/media/k2/items/cache/ddc6f91c3a13ac08c7383354a6c9c208_M.jpg"
 			}
 		]
 	}
